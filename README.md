@@ -40,7 +40,7 @@ RegisterNumber:
 */
 
 ## Output:
-
+### FULL SUBTRTACTOR
 ## Truthtable
 
 
